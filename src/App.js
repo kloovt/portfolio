@@ -1,18 +1,23 @@
 import React from "react";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Navbar from "./components/Navbar";
-import Projects from "./components/Projects";
-import Skills from "./components/Skills";
+import Home from "./components/Home";
+import IntProject from "./pages/IntProject";
+import HomeServer from "./pages/HomeServer";
+import GoogleScripts from "./pages/GoogleScripts";
+import PortfolioSite from "./pages/PortfolioSite";
+
+import {Routes , Route} from "react-router-dom" 
 
 export default function App() {
   return (
     <main>
-      <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <Contact />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/international_project" element={<IntProject />} />
+          <Route path="/home_server" element={<HomeServer />} />
+          <Route path="/google_scripts" element={<GoogleScripts />} />
+          <Route path="/portfolio_website" element={<PortfolioSite />} />
+          <Route path="*" element={<Home />} />
+        </Routes>
     </main>
   );
 }

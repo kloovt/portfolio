@@ -16,15 +16,18 @@ export default function Navbar() {
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-600	flex flex-wrap items-center text-base justify-center">
-          <a href="#projects" className="mr-5 hover:text-white">
-            Portfolio
+          <a href="/Home" className="mr-5 hover:text-white">
+            About
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
+          <a href="/Home#projects" className="mr-5 hover:text-white">
+            Projects
+          </a>
+          <a href="/Home#skills" className="mr-5 hover:text-white">
             Skills
           </a>
         </nav>
         <a
-          href="#contact"
+          href="/Home#contact"
           className="inline-flex items-center bg-gray-700 border-0 py-1 px-3 focus:outline-none hover:bg-gray-600 rounded text-base mt-4 md:mt-0">
           Contact
           <ArrowRightIcon className="w-4 h-4 ml-1" />

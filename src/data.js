@@ -1,3 +1,4 @@
+
 export const projects = [
   {
     title: "Home server",
@@ -5,15 +6,15 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "/home_server",
   },
   {
     title: "International Project",
-    subtitle: "React and Python",
+    subtitle: "Node-RED and international cooperation",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./group_picture.jpg",
+    link: "/international_project",
   },
   {
     title: "Google Scripts",
@@ -21,7 +22,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "/google_scripts",
   },
   {
     title: "Portfolio Website",
@@ -29,7 +30,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "/portfolio_website",
   },
 ];
 
