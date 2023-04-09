@@ -23,7 +23,14 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                <a target="_blank" rel="noopener noreferrer" href="mailto:jorritvantriest@gmail.com" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">jorritvantriest@gmail</a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="mailto:jorritvantriest@gmail.com"
+                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                >
+                  jorritvantriest@gmail
+                </a>
               </a>
             </div>
             <div className="lg:w-1/4 px-12 mt-6 lg:mt-0">
@@ -31,7 +38,14 @@ export default function Contact() {
                 LINKEDIN
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jorrit-van-triest-699b43175/" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Jorrit van triest</a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://www.linkedin.com/in/jorrit-van-triest-699b43175/"
+                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                >
+                  Jorrit van triest
+                </a>
               </a>
             </div>
             <div className="lg:w-1/4 px-12 mt-6 lg:mt-0">
@@ -39,7 +53,14 @@ export default function Contact() {
                 PORTFOLIO
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                <a target="_blank" rel="noopener noreferrer" href="https://www.jorritvtriest.nl/portfolio" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">jorritvtriest.nl</a>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://www.jorritvtriest.nl/portfolio"
+                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                >
+                  jorritvtriest.nl
+                </a>
               </a>
             </div>
           </div>

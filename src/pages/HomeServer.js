@@ -67,8 +67,14 @@ export default function HomeServer() {
           </div>
           <div className="flex flex-wrap lg:w-7/8 sm:mx-auto sm:mb-2 -mx-2">
             <div className="p-2 sm:w-2/2 w-full">
-              <img alt="presenting" src="./portainer.jpg" />
+              <img alt="portainer" src="./portainer.jpg" />
               <h4>screenshot of portainer</h4>
+            </div>
+          </div>
+          <div className="flex flex-wrap lg:w-7/8 sm:mx-auto sm:mb-2 -mx-2">
+            <div className="p-2 sm:w-2/2 w-full">
+              <img alt="grafana" src="./grafana.png" />
+              <h4>screenshot of grafana hardware monitoring dashboard</h4>
             </div>
           </div>
         </div>
