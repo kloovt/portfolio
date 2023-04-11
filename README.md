@@ -15,3 +15,4 @@ The original can be found [here](https://www.freecodecamp.org/news/build-portfol
 * removed embedded google maps location
 * removed contact form
 * added portfolio pages
+* added docker integration
