@@ -56,7 +56,7 @@ export default function Contact() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.jorritvtriest.nl/portfolio"
+                  href="/portfolio"
                   class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   jorritvtriest.nl
