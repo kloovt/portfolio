@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  portfolio:
+    build: .
+    image: portfolio
+    ports:
+      - 3003:3000
+    restart: always
