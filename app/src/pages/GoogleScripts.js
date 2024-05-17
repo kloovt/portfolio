@@ -36,10 +36,10 @@ export default function GoogleScripts() {
             <br></br>
             <br></br>I wrote the scripts in late 2021 and they haven't failed me
             yet. It's admittedly a bit funny about the week number in the first
-            weeks of January, but apart from that I have had 0 issues The only
+            weeks of January, but apart from that I have had 0 issues. The only
             changes I have made have been additions for new report types. I
             haven't expanded it to copy and name the seasonal reviews yet
-            because they're relatively new. Every three months I copy it
+            because they're so infrequent. Every three months I copy it
             manually and think to myself 'I should automate that one of these
             days'; it hasn't reached the annoyance threshold.
             <br></br>
@@ -54,7 +54,7 @@ export default function GoogleScripts() {
             would then figure out a way to automate the creation of these in a
             way that's nice and maintainable. Admittedly I would do it this way
             at first, but then ask a particularly talented classmate what they'd
-            do because I probably missed plenty of opportunities for simplicity.
+            do because I probably missed plenty of opportunities for simplification.
           </p>
         </div>
       </div>
@@ -79,7 +79,7 @@ export default function GoogleScripts() {
               might have been quicker to give up on using Google Drive, or just
               the journaling system in general. I'm impressed with how
               maintainable it is. I added the most recent section (effort report
-              generation) last January and it took me no time at all to
+              generation) in January 2023 and it took me no time at all to
               integrate it in the weekly generation process.
               <br></br>
               3. I'm blatantly advertising that I use a comprehensive system of
