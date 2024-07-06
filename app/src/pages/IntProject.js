@@ -116,7 +116,7 @@ export default function IntProject() {
               bit pedantic, but we worked it out. My strongest takeaway was that
               there are few things I find more interesting than exploring other
               cultures and places. The project was the primary inspiration for
-              the awesome Balkan road trip later that same year.
+              an awesome Balkan road trip later that same year.
               <br></br>
               <br></br>I also learned to appreciate the sheer expandability of
               simple tools like Node-RED. It was introduced to us in an earlier

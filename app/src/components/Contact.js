@@ -22,7 +22,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <div className="text-indigo-400 leading-relaxed">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -31,13 +31,13 @@ export default function Contact() {
                 >
                   jorritvantriest@gmail
                 </a>
-              </a>
+              </div>
             </div>
             <div className="lg:w-1/4 px-12 mt-6 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 LINKEDIN
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <div className="text-indigo-400 leading-relaxed">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -46,13 +46,13 @@ export default function Contact() {
                 >
                   Jorrit van triest
                 </a>
-              </a>
+              </div>
             </div>
             <div className="lg:w-1/4 px-12 mt-6 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 PORTFOLIO
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <div className="text-indigo-400 leading-relaxed">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -61,7 +61,7 @@ export default function Contact() {
                 >
                   jorritvtriest.nl
                 </a>
-              </a>
+              </div>
             </div>
           </div>
         </div>

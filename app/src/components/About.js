@@ -33,18 +33,17 @@ export default function About() {
             in, but just in case: I'm right-handed, I have visited every Dutch
             province, I wear size 45 (EU) shoes, my favourite planet is Saturn,
             I have a 100% win rate in Smash Bros, I was born 1 week prematurely,
-            I prefer manual transmission to automatics, I wear a silver ring and
-            necklace, my legal first name has 8 syllables, I still have all my
-            wisdom teeth, my car is exactly 208 days older than me, adding the
-            housenumbers I've lived at together makes 110, I'm blood type A+, my
-            first girlfriend later emigrated to Australia, I have driven 3 laps
-            around the Nürburgring, my favourite film is Scott Pilgrim vs. the
-            World, I can read Cyrillic, I have never broken a bone, my most
-            visible scar is from fighting a Slovenian turnstile, I won a gold
-            medal in a skiing competition when I was 6 years old, I've read
-            every book in the Harry Potter Series and didn't enjoy a single one,
-            I can recite the first 32 digits of Pi, I once ranked as top
-            listener of a small Texan band on Spotify, my parents would've named
+            I prefer manual transmission to automatics, I wear a silver necklace,
+            my legal first name has 8 syllables, I still have all my wisdom teeth,
+            my car is exactly 208 days older than me, adding the housenumbers I've
+            lived at together makes 167, I'm blood type A+, my first girlfriend
+            later emigrated to Australia, I have driven 3 laps around the
+            Nürburgring, my favourite film is Scott Pilgrim vs. the World, I can
+            read Cyrillic, I have never broken a bone, my most visible scar is
+            from fighting a Slovenian turnstile, I won a gold medal in a skiing
+            competition when I was 6 years old, I've read every book in the Harry
+            Potter Series and didn't enjoy a single one, I can recite the first 32
+            digits of Pi, I once ranked as top listener of a small Texan band on Spotify, my parents would've named
             me Rhodee if I'd been born female, my personal record for number of
             steps taken in a single week is 156.5k, my favourite Pokémon is
             Ampharos, I have a trailer license, my spiciness tolerance has been
@@ -62,7 +61,7 @@ export default function About() {
             >
               self-introduction video
             </a>
-            .
+            . I made it to apply for an internship in the US, unsuccessfully :( . 
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

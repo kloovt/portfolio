@@ -30,13 +30,12 @@ export default function HomeServer() {
             with Cloudflare. My experienced colleague was genuinely impressed
             I'd managed to get it working on my own.
             <br></br>
-            <br></br>I can scarcely believe I've only been using it for around 3
-            months because it's now something I use basically every day. I watch
+            <br></br>I can scarcely believe how quickly it went from something
+            new and exciting to something I use basically every day. I watch
             fully legal media on Jellyfin, I use it for file hosting, for game
             hosting, for data collection, for development, and more. I'm
             currently typing this into VS Code with a remote connection to my
-            server via SSH. This portfolio page is most likely hosted on the
-            server too.
+            server via SSH. This portfolio page is hosted on the server too.
           </p>
         </div>
       </div>
@@ -56,13 +55,10 @@ export default function HomeServer() {
               <br></br>
               <br></br>
               More directly I now have enough know-how to set up any
-              sufficiently simple service in a matter of minutes, which only 5
-              months ago would have seemed fantastical to me. I will continue to
+              sufficiently simple service in a matter of minutes, which would have
+              seemed fantastical to me beforehand. I will continue to
               expand my usage of my server and discover more uses for it. It has
-              quickly become a hobby of mine. I was recently offered a couple of
-              mildly broken office PCs for free and I'm planning to set them up
-              as a cluster for cloud computing, just because I think it'll be
-              fun
+              quickly become a hobby of mine.
             </p>
           </div>
           <div className="flex flex-wrap lg:w-7/8 sm:mx-auto sm:mb-2 -mx-2">
