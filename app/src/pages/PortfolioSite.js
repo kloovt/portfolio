@@ -13,21 +13,22 @@ export default function PortfolioSite() {
           <p className="mb-8 py-10 leading-relaxed">
             This is the most meta of my portfolio projects, and I think it
             pairs well with my Google Scripts project. I don't think I really
-            need to describe this project as you are currently using it. I'm of
-            the opinion that my best quality as a candidate isn't my skill in
+            need to describe this project as you are currently using it. Just in case: I built a portfolio website to
+            advertise my coding ability.
+            <br></br>
+            I'm of the opinion that my best quality as a candidate isn't my skill in
             any particular software tool or language, but my ability to learn
             new things quickly.
             <br></br>
-            <br></br>I made this portfolio in about 2 weeks and spent perhaps 20
-            hours on it so far. I know it's not the most
-            impressive website and a lot of it isn't very different from the
+            <br></br>I made this portfolio in about 2 weeks and spent perhaps 20 hours on it in total. I know it's not the
+            most impressive website and a lot of it isn't very different from the
             example I based it on, but I still think it's something I can boast
             about. It'd been {">"}3 years since I last had to use html and I had no
             React.js experience whatsoever. As an embedded-systems guy I have no
             direct reason to learn any of this.
             <br></br>
             <br></br>
-            I was so inexperienced with this are that, at the time of writing, I
+            I was so inexperienced with this are that, at the time of creation, I
             didn't know how I was going to take this from a locally running node
             application to a publically accessible webpage.
             <br></br>

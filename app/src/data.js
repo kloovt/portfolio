@@ -3,7 +3,7 @@ export const projects = [
     title: "Home server",
     subtitle: "Docker and server hosting",
     description:
-      "I run my own home server. It's a pretty recent development and I'm still quite excited about it. In a short time I went from knowing nothing about this subject to becoming pretty adept.",
+      "I run my own home server. In a short time I went from knowing nothing about this subject to becoming pretty adept.",
     image: "./grafana.png",
     link: "/home_server",
   },
@@ -30,6 +30,22 @@ export const projects = [
       "This project is where I brag about the website I made to advertise my fantastic skills as a developer. The fact that you're reading this description means you like what you've seen so far.",
     image: "./projects.jpg",
     link: "/portfolio_website",
+  },
+  {
+    title: "Global Acting",
+    subtitle: "User Experience, Machine Learning, Cybersecurity",
+    description:
+      "This project describes my adventurous minor semester.",
+    image: "./pretoria.jpg",
+    link: "/global_acting",
+  },
+  {
+    title: "Graduation Assignment",
+    subtitle: "Standard definition, stakeholder management, Open62541",
+    description:
+      "This project was my graduation assignment. I got a G (8-ish) and a Bachelor's degree for it.",
+    image: "./presentation.png",
+    link: "/qr-code",
   },
 ];
 
