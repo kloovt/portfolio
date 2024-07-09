@@ -10,11 +10,11 @@ export default function Navbar() {
         <a className="title-font font-medium text-white mb-4 md:mb-0">
         <img src="./JvT_logo.svg" alt="" className="inline-block mr-3 h-6"></img>
         </a>
-        <a className="title-font font-medium text-white mb-4 md:mb-0">
+        <div className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
             Jorrit van Triest
           </a>
-        </a>
+        </div>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-600	flex flex-wrap items-center text-base justify-center">
           <a href="/Home" className="mr-5 hover:text-white">
             About

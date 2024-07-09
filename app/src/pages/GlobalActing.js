@@ -18,7 +18,7 @@ export default function GlobalActing() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://www.ambitieplanfontysict.nl/en/development-areas/global-acting/"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
                Here
             </a>{" "}

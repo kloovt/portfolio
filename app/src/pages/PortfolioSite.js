@@ -38,7 +38,7 @@ export default function PortfolioSite() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://github.com/kloovt/Portfolio"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
               GitHub page
             </a>{" "}

@@ -57,7 +57,7 @@ export default function About() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://nc.jorritvtriest.nl/s/HEwgDoSPrGDCqPq"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
               self-introduction video
             </a>

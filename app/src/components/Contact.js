@@ -27,7 +27,7 @@ export default function Contact() {
                   target="_blank"
                   rel="noopener noreferrer"
                   href="mailto:jorritvantriest@gmail.com"
-                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   jorritvantriest@gmail
                 </a>
@@ -42,7 +42,7 @@ export default function Contact() {
                   target="_blank"
                   rel="noopener noreferrer"
                   href="https://www.linkedin.com/in/jorrit-van-triest-699b43175/"
-                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   Jorrit van triest
                 </a>
@@ -57,7 +57,7 @@ export default function Contact() {
                   target="_blank"
                   rel="noopener noreferrer"
                   href="/portfolio"
-                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                  className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
                 >
                   jorritvtriest.nl
                 </a>

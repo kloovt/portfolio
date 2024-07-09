@@ -28,7 +28,7 @@ export default function GoogleScripts() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://nc.jorritvtriest.nl/s/9jbej8zcRHDwYfW"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
               this folder
             </a>. I had a go at making it all work with Google scripts and to

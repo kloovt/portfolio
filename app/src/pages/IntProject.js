@@ -19,7 +19,7 @@ export default function IntProject() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://www.technikum-wien.at/en/news/robotics-for-industry-and-agriculture-completion-of-the-first-blended-intensive-program-at-the-uas-technikum-wien/"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
               Here
             </a>{" "}
@@ -43,7 +43,7 @@ export default function IntProject() {
               target="_blank"
               rel="noopener noreferrer"
               href="https://nc.jorritvtriest.nl/s/9jbej8zcRHDwYfW"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+              className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
             >
               on my server
             </a>
