@@ -16,3 +16,6 @@ The original can be found [here](https://www.freecodecamp.org/news/build-portfol
 * removed contact form
 * added portfolio pages
 * added docker integration
+
+# 10-07-2024
+I was getting frustrated with dependency collision so I reconstructed the website from a clean build.
