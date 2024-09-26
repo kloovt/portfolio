@@ -21,7 +21,7 @@ export default function About() {
             <br></br>
             I'd like to point out that I'm perfectly capable of being serious. I
             just don't like writing a boilerplate introduction; it feels so
-            disingenuous. I can honestly tell you I'm an enthousiastic and
+            disingenuous. I can honestly tell you I'm an enthusiastic and
             dedicated developer. I love to learn new things and see new places.
             I want to spend my time on this earth contributing to meaningful
             projects and learning as much as I can. I'm looking to work for
